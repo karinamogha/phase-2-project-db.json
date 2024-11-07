@@ -1,0 +1,22 @@
+{
+  "name": "phase-2-project-db.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinamogha/phase-2-project-db.json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinamogha/phase-2-project-db.json/issues"
+  },
+  "homepage": "https://github.com/karinamogha/phase-2-project-db.json#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
