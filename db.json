@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Red Velvet",
-      "image": "https://www.rainbownourishments.com/wp-content/uploads/2023/02/vegan-red-velvet-cupcakes-1-500x500.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167272112239/Red_Velvet_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f68ab2cebf8fcbc05869c3b9677afe988a41f83a99099eb1395a5b582c589a59&=&format=webp&width=1012&height=1012",
       "price": 2.25,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "name": "Chocolate Cupcake",
-      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-5.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168316756008/CoCo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=a15eca9e35b053b39521013d2c821898fc48b250fc6f2440ec89205a29ddd906&=&format=webp&width=1012&height=1012",
       "price": 3.25,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -19,7 +19,7 @@
     {
       "id": "3",
       "name": "Vanilla Cupcake",
-      "image": "https://beyondfrosting.com/wp-content/uploads/2022/01/Easy-Moist-Vanilla-Cupcakes-021-2.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169876774983/Vanille_Cupcake.jpeg?ex=6733dbe1&is=67328a61&hm=6ec422c8388919f3d7f0a5d3a369dba5578983b677cb640b83cbfcbf9e2aabf5&=&format=webp&width=1012&height=1012",
       "price": 4.25,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -27,7 +27,7 @@
     {
       "id": "4",
       "name": "Strawberry Cupcake",
-      "image": "https://media.istockphoto.com/id/167120918/photo/pink-and-white-frosted-cupcake-isolated-on-white.jpg?s=612x612&w=0&k=20&c=o1xFPaMLhmq7y-LczWkePTOP1yotfx6OOT9VHcDNha0=",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167674769408/Strawberry_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=76e9af37213c55ba27e0994853fdafbc74df87f1cb87fd6d1e01bbe130b0fbf5&=&format=webp&width=1012&height=1012",
       "price": 3.25,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -35,7 +35,7 @@
     {
       "id": "5",
       "name": "Tiramisu Cupcake",
-      "image": "https://richanddelish.com/wp-content/uploads/2024/06/Tiramisu-Cupcakes.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169621188668/Tiramisu_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=b107d710935709b627f7f7e52fda752e8523e457791abbd64f5f0dcfc0d10775&=&format=webp&width=1012&height=1012",
       "price": 2.25,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -43,7 +43,7 @@
     {
       "id": "6",
       "name": "Orea Cupckake",
-      "image": "https://sugarspunrun.com/wp-content/uploads/2020/09/Oreo-Cupcakes-1-of-1-9-500x500.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169361137714/Oreo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=18db863be182ea7f3850efa3423d5039f998aac9eb1aaa1a84bf1c709a643400&=&format=webp&width=1012&height=1012",
       "price": 4,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -51,7 +51,7 @@
     {
       "id": "7",
       "name": "Peanut Cupcake",
-      "image": "https://sugarspunrun.com/wp-content/uploads/2022/12/Peanut-Butter-Cupcakes-1-of-1.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168949968896/Peanut_Butter.jpeg?ex=6733dbe0&is=67328a60&hm=4b83e53b72545b1d0039c6230047b90375d8a1e30726db1c0dd2f3a38bc49083&=&format=webp&width=1012&height=1012",
       "price": 1,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
@@ -59,7 +59,7 @@
     {
       "id": "8",
       "name": "Brownie Cupcake",
-      "image": "https://www.katiegetscreative.com/wp-content/uploads/2023/03/chewybrowniecupcakes-crop.jpg",
+      "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168572477450/Brownie_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f7acf9385b3b849e46e5e5ecc07506fbcd061fca6ab1d8fd3e7579b869384c8d&=&format=webp&width=1012&height=1012",
       "price": "23.5",
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
