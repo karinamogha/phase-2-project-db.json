@@ -2,15 +2,15 @@
   "cupcakes": [
     {
       "id": "1",
-      "name": "Red Velvet",
+      "name": "Rebel Red Velvet",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167272112239/Red_Velvet_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f68ab2cebf8fcbc05869c3b9677afe988a41f83a99099eb1395a5b582c589a59&=&format=webp&width=1012&height=1012",
-      "price": 2.25,
+      "price": 5.5,
       "ingredients": "flour chocolate butter eggs sugar",
       "allergies": "eggs"
     },
     {
       "id": "2",
-      "name": "Chocolate Cupcake",
+      "name": "Chocoholic",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168316756008/CoCo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=a15eca9e35b053b39521013d2c821898fc48b250fc6f2440ec89205a29ddd906&=&format=webp&width=1012&height=1012",
       "price": 5,
       "ingredients": "chocolates, milk, flour. butter, eggs, sugar, oil",
@@ -18,61 +18,81 @@
     },
     {
       "id": "3",
-      "name": "Vanilla Cupcake",
+      "name": "Vanilla Bean Fantasy",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169876774983/Vanille_Cupcake.jpeg?ex=6733dbe1&is=67328a61&hm=6ec422c8388919f3d7f0a5d3a369dba5578983b677cb640b83cbfcbf9e2aabf5&=&format=webp&width=1012&height=1012",
-      "price": 4,
-      "ingredients": "vanilla extract, flour. butter, eggs, sugar, oil",
+      "price": 5.25,
+      "ingredients": "vanilla extract, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     },
     {
       "id": "4",
-      "name": "Strawberry Cupcake",
+      "name": "Strawberry Shortcupcake",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167674769408/Strawberry_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=76e9af37213c55ba27e0994853fdafbc74df87f1cb87fd6d1e01bbe130b0fbf5&=&format=webp&width=1012&height=1012",
-      "price": 4.5,
-      "ingredients": "strawberries, flour. butter, eggs, sugar, oil",
+      "price": 5.75,
+      "ingredients": "strawberries, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     },
     {
       "id": "5",
-      "name": "Tiramisu Cupcake",
+      "name": "Italian-ish Tiramisu",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169621188668/Tiramisu_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=b107d710935709b627f7f7e52fda752e8523e457791abbd64f5f0dcfc0d10775&=&format=webp&width=1012&height=1012",
-      "price": 5.5,
-      "ingredients": "coffee extract, flour. butter, eggs, sugar, oil",
+      "price": 6.25,
+      "ingredients": "coffee extract, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     },
     {
       "id": "6",
-      "name": "Orea Cupckake",
+      "name": "Oreo Overload",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169361137714/Oreo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=18db863be182ea7f3850efa3423d5039f998aac9eb1aaa1a84bf1c709a643400&=&format=webp&width=1012&height=1012",
-      "price": 7,
-      "ingredients": "oreo cookies, milk, flour. butter, eggs, sugar, oil",
+      "price": 6.75,
+      "ingredients": "oreo cookies, milk, flour, butter, eggs, sugar, oil",
       "allergies": "eggs, milk"
     },
     {
       "id": "7",
-      "name": "Peanut Cupcake",
+      "name": "Nutty Butter",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168949968896/Peanut_Butter.jpeg?ex=6733dbe0&is=67328a60&hm=4b83e53b72545b1d0039c6230047b90375d8a1e30726db1c0dd2f3a38bc49083&=&format=webp&width=1012&height=1012",
       "price": 6.5,
-      "ingredients": "crushed peanuts, peanut butter, flour. butter, eggs, sugar, oil",
+      "ingredients": "crushed peanuts, peanut butter, flour, butter, eggs, sugar, oil",
       "allergies": "eggs, peanut"
     },
     {
       "id": "8",
-      "name": "Brownie Cupcake",
+      "name": "Fudgiest Brownie",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168572477450/Brownie_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f7acf9385b3b849e46e5e5ecc07506fbcd061fca6ab1d8fd3e7579b869384c8d&=&format=webp&width=1012&height=1012",
-      "price": 5,
-      "ingredients": "chocolate powder, flour. butter, eggs, sugar, oil",
+      "price": 6,
+      "ingredients": "chocolate powder, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     }
   ],
   "cart": [
     {
-      "id": "2dae",
-      "cupcakeId": "5"
+      "id": "8d13",
+      "cupcakeId": "2"
     },
     {
-      "id": "2350",
-      "cupcakeId": "2"
+      "id": "c51b",
+      "cupcakeId": "1"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "Jane Doe",
+      "review": "Amazing the best cupcakes ever",
+      "stars": 5
+    },
+    {
+      "id": "12b7",
+      "name": "John Smith",
+      "review": "The Chocoholic cupcake changed my life!!!!",
+      "stars": 5
+    },
+    {
+      "id": "202f",
+      "name": "CupcakeLover",
+      "review": "Would give up everything for these cupcakes!",
+      "stars": 5
     }
   ]
 }
