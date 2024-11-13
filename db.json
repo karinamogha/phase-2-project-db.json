@@ -5,15 +5,15 @@
       "name": "Rebel Red Velvet",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167272112239/Red_Velvet_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f68ab2cebf8fcbc05869c3b9677afe988a41f83a99099eb1395a5b582c589a59&=&format=webp&width=1012&height=1012",
       "price": 5.5,
-      "ingredients": "flour chocolate butter eggs sugar",
-      "allergies": "eggs"
+      "description": "Fluffy and moist, these buttery red velvet cupcakes are crowd favorite. The tangy cream cheese frosting puts them over the top!",
+      "allergies": "eggs, dairy"
     },
     {
       "id": "2",
       "name": "Chocoholic",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168316756008/CoCo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=a15eca9e35b053b39521013d2c821898fc48b250fc6f2440ec89205a29ddd906&=&format=webp&width=1012&height=1012",
       "price": 5,
-      "ingredients": "chocolates, milk, flour. butter, eggs, sugar, oil",
+      "description": "Super moist, pack tons of chocolate flavor! Topped with a rich chocolate buttercream, The real chocolate gives the frosting a fudge-y quality that makes it a chocolate lover’s dream!",
       "allergies": "eggs"
     },
     {
@@ -21,15 +21,15 @@
       "name": "Vanilla Bean Fantasy",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169876774983/Vanille_Cupcake.jpeg?ex=6733dbe1&is=67328a61&hm=6ec422c8388919f3d7f0a5d3a369dba5578983b677cb640b83cbfcbf9e2aabf5&=&format=webp&width=1012&height=1012",
       "price": 5.25,
-      "ingredients": "vanilla extract, flour, butter, eggs, sugar, oil",
-      "allergies": "eggs"
+      "description": "They are perfectly moist, completely irresistible cupcakes! These light and fluffy cupcakes are topped with creamy vanilla buttercream and topped with sprinkles for the ultimate sweet treat.",
+      "allergies": "eggs, dairy"
     },
     {
       "id": "4",
       "name": "Strawberry Shortcupcake",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666167674769408/Strawberry_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=76e9af37213c55ba27e0994853fdafbc74df87f1cb87fd6d1e01bbe130b0fbf5&=&format=webp&width=1012&height=1012",
       "price": 5.75,
-      "ingredients": "strawberries, flour, butter, eggs, sugar, oil",
+      "description": "Classic, biscuit-style shortcupcake. The cupcake is filled and layered with sweet juicy organic strawberries and whipped cream for a delicious treat!",
       "allergies": "eggs"
     },
     {
@@ -37,15 +37,15 @@
       "name": "Italian-ish Tiramisu",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169621188668/Tiramisu_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=b107d710935709b627f7f7e52fda752e8523e457791abbd64f5f0dcfc0d10775&=&format=webp&width=1012&height=1012",
       "price": 6.25,
-      "ingredients": "coffee extract, flour, butter, eggs, sugar, oil",
-      "allergies": "eggs"
+      "description": "These cupcakes deliver all the flavor of the Italian dessert without the fuss. The vanilla cakes are soaked with coffee, topped with a rich amaretto-spiked mascarpone frosting, and dusted generously with cocoa powder for a simple, elegant finish.",
+      "allergies": "eggs, coffee, dairy"
     },
     {
       "id": "6",
       "name": "Oreo Overload",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666169361137714/Oreo_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=18db863be182ea7f3850efa3423d5039f998aac9eb1aaa1a84bf1c709a643400&=&format=webp&width=1012&height=1012",
       "price": 6.75,
-      "ingredients": "oreo cookies, milk, flour, butter, eggs, sugar, oil",
+      "description": "These Oreo cupcakes will melt in your mouth and that cookies and cream frosting on top is nearly too good too be true. They're perfect for anything, especially just treating yourself!",
       "allergies": "eggs, milk"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Nutty Butter",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168949968896/Peanut_Butter.jpeg?ex=6733dbe0&is=67328a60&hm=4b83e53b72545b1d0039c6230047b90375d8a1e30726db1c0dd2f3a38bc49083&=&format=webp&width=1012&height=1012",
       "price": 6.5,
-      "ingredients": "crushed peanuts, peanut butter, flour, butter, eggs, sugar, oil",
+      "description": "These tender cupcakes are made with peanut butter in the batter and are topped with creamy peanut butter frosting and crushed peanuts. They have a double dose of peanut butter for the perfect peanut butter cupcake recipe.",
       "allergies": "eggs, peanut"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Fudgiest Brownie",
       "image": "https://media.discordapp.net/attachments/1304125336442896515/1305666168572477450/Brownie_Cupcake.jpeg?ex=6733dbe0&is=67328a60&hm=f7acf9385b3b849e46e5e5ecc07506fbcd061fca6ab1d8fd3e7579b869384c8d&=&format=webp&width=1012&height=1012",
       "price": 6,
-      "ingredients": "chocolate powder, flour, butter, eggs, sugar, oil",
+      "description": "This brownie cupcakes recipe makes a cupcake that is fudgy and rich, just like brownies. They are topped with the silkiest white chocolate buttercream that literally melts in your mouth. ",
       "allergies": "eggs"
     },
     {
@@ -69,15 +69,15 @@
       "name": "Carrot Cakey",
       "image": "https://th.bing.com/th/id/OIG1.dWwgEHSlFJr1wmtF9AAn?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
       "price": 5.25,
-      "ingredients": "carrot, flour, butter, eggs, sugar, oil",
-      "allergies": "eggs"
+      "description": "Topped with cream cheese frosting. They're moist without being dense and have just the right amount of spice",
+      "allergies": "eggs, dairy"
     },
     {
       "id": "10",
       "name": "Lemony Goody",
       "image": "https://th.bing.com/th/id/OIG2.i15cj0T_94cJnWaF87EU?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
       "price": 5.5,
-      "ingredients": "lemons, chocolate, flour, butter, eggs, sugar, oil",
+      "description": "These light and fluffy Lemon Cupcakes are made with a creamy lemon frosting for the best lemon cupcakes! They are easy to make and perfect for spring and summer or everyday!",
       "allergies": "eggs"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Ice Ice Ice Cream",
       "image": "https://th.bing.com/th/id/OIG1.MfhR9EKtU4qeVNShC70P?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn",
       "price": 7,
-      "ingredients": "ice cream, chocolate powder, flour, butter, eggs, sugar, oil",
+      "description": "Ice Cream Cupcakes are the perfect birthday cupcake with your favorite chocolate cake and ice cream all in one single serving!",
       "allergies": "eggs, dairy"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Cheesecake UnFactory",
       "image": "https://th.bing.com/th/id/OIG3.IF_aKIaFMrd8mh.leWlY?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn",
       "price": 7.5,
-      "ingredients": "cheesecake, flour, butter, eggs, sugar, oil",
+      "description": "These Cheesecake Cupcakes have a smooth, creamy texture with a traditional buttery graham cracker crust topped with organic fresh raspberry.",
       "allergies": "eggs, dairy"
     }
   ],
@@ -109,6 +109,10 @@
     {
       "id": "2d41",
       "cupcakeId": "9"
+    },
+    {
+      "id": "a05e",
+      "cupcakeId": "3"
     }
   ],
   "reviews": [
