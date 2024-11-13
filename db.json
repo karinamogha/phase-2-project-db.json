@@ -66,35 +66,35 @@
     },
     {
       "id": "9",
-      "name": "Carrot Cupcake",
+      "name": "Carrot Cakey",
       "image": "https://th.bing.com/th/id/OIG1.dWwgEHSlFJr1wmtF9AAn?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
-      "price": 1,
-      "ingredients": "carrot,flour, butter, eggs, sugar, oil",
+      "price": 5.25,
+      "ingredients": "carrot, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     },
     {
       "id": "10",
-      "name": "Lemon Cupcake",
+      "name": "Lemony Goody",
       "image": "https://th.bing.com/th/id/OIG2.i15cj0T_94cJnWaF87EU?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
-      "price": 2,
-      "ingredients": "lemon, chocolate powder, flour, butter, eggs, sugar, oil",
+      "price": 5.5,
+      "ingredients": "lemons, chocolate, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
     },
     {
       "id": "11",
-      "name": "Icecream Cupcake",
+      "name": "Ice Ice Ice Cream",
       "image": "https://th.bing.com/th/id/OIG1.MfhR9EKtU4qeVNShC70P?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn",
-      "price": 3,
-      "ingredients": "ice cream,chocolate powder, flour, butter, eggs, sugar, oil",
-      "allergies": "eggs"
+      "price": 7,
+      "ingredients": "ice cream, chocolate powder, flour, butter, eggs, sugar, oil",
+      "allergies": "eggs, dairy"
     },
     {
       "id": "12",
-      "name": "Cheescake Cupcake",
+      "name": "Cheesecake UnFactory",
       "image": "https://th.bing.com/th/id/OIG3.IF_aKIaFMrd8mh.leWlY?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn",
-      "price": 4,
-      "ingredients": "cheescake, flour, butter, eggs, sugar, oil",
-      "allergies": "eggs"
+      "price": 7.5,
+      "ingredients": "cheesecake, flour, butter, eggs, sugar, oil",
+      "allergies": "eggs, dairy"
     }
   ],
   "cart": [
@@ -105,6 +105,10 @@
     {
       "id": "c51b",
       "cupcakeId": "1"
+    },
+    {
+      "id": "2d41",
+      "cupcakeId": "9"
     }
   ],
   "reviews": [
@@ -124,12 +128,6 @@
       "id": "202f",
       "name": "CupcakeLover",
       "review": "Would give up everything for these cupcakes!",
-      "stars": 5
-    },
-    {
-      "id": "fa6d",
-      "name": "Karina Mogha",
-      "review": "the strawberry cupcake was outstanding ",
       "stars": 5
     }
   ]
