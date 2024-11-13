@@ -63,7 +63,7 @@
       "price": 6,
       "ingredients": "chocolate powder, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
-    }
+    },
     {
       "id": "9",
       "name": "Carrot Cupcake",
@@ -71,7 +71,7 @@
       "price": 1,
       "ingredients": "carrot,flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
-    }
+    },
     {
       "id": "10",
       "name": "Lemon Cupcake",
@@ -79,7 +79,7 @@
       "price": 2,
       "ingredients": "lemon, chocolate powder, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
-    }
+    },
     {
       "id": "11",
       "name": "Icecream Cupcake",
@@ -87,7 +87,7 @@
       "price": 3,
       "ingredients": "ice cream,chocolate powder, flour, butter, eggs, sugar, oil",
       "allergies": "eggs"
-    }
+    },
     {
       "id": "12",
       "name": "Cheescake Cupcake",
