@@ -100,19 +100,18 @@
   "cart": [
     {
       "id": "8d13",
-      "cupcakeId": "2"
-    },
-    {
-      "id": "c51b",
-      "cupcakeId": "1"
+      "cupcakeId": "2",
+      "amount": 1
     },
     {
       "id": "2d41",
-      "cupcakeId": "9"
+      "cupcakeId": "9",
+      "amount": 1
     },
     {
-      "id": "a05e",
-      "cupcakeId": "3"
+      "id": "0ea8",
+      "cupcakeId": "11",
+      "amount": 7
     }
   ],
   "reviews": [
@@ -133,6 +132,18 @@
       "name": "CupcakeLover",
       "review": "Would give up everything for these cupcakes!",
       "stars": 5
+    },
+    {
+      "id": "1343",
+      "name": "ajfhjs",
+      "review": "yuvk",
+      "stars": "0"
+    },
+    {
+      "id": "01fd",
+      "name": "sgrasras",
+      "review": "gfhfgs",
+      "stars": "2"
     }
   ]
 }
