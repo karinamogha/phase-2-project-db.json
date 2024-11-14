@@ -101,17 +101,17 @@
     {
       "id": "8d13",
       "cupcakeId": "2",
-      "amount": 1
+      "amount": 2
     },
     {
-      "id": "2d41",
-      "cupcakeId": "9",
-      "amount": 1
+      "id": "3451",
+      "cupcakeId": "6",
+      "amount": 2
     },
     {
-      "id": "0ea8",
-      "cupcakeId": "11",
-      "amount": 7
+      "id": "4516",
+      "cupcakeId": "1",
+      "amount": 2
     }
   ],
   "reviews": [
@@ -134,16 +134,22 @@
       "stars": 5
     },
     {
-      "id": "1343",
-      "name": "ajfhjs",
-      "review": "yuvk",
-      "stars": "0"
+      "id": "6c8e",
+      "name": "FoodSnob",
+      "review": "They did not let me change my money, I wanted coins for my $1 bill.",
+      "stars": "1"
     },
     {
-      "id": "01fd",
-      "name": "sgrasras",
-      "review": "gfhfgs",
-      "stars": "2"
+      "id": "624c",
+      "name": "Food Critic",
+      "review": "Good cupcakes. I can make them better at home.",
+      "stars": "4"
+    },
+    {
+      "id": "e173",
+      "name": "Anonymous",
+      "review": "Middling cupcakes, they should serve more than cupcakes",
+      "stars": "3"
     }
   ]
 }
