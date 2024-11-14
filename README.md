@@ -39,7 +39,7 @@ Install the necessary dependencies:
 Start the application:
 `npm start`
 
-You wil see a prompt that will ask you a question if it is okay to run a different server, you will answer YES or Y.
+You wil see a prompt that will ask you a question if it is okay to run a different server, you will answer Y or Yes.
 
 ## Contributing
 
