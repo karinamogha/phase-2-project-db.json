@@ -117,24 +117,6 @@
   ],
   "reviews": [
     {
-      "id": "1",
-      "name": "Jane Doe",
-      "review": "Amazing the best cupcakes ever",
-      "stars": 5
-    },
-    {
-      "id": "76d2",
-      "cupcakeId": "12",
-      "amount": 1
-    },
-    {
-      "id": "d790",
-      "cupcakeId": "7",
-      "amount": 1
-    }
-  ],
-  "reviews": [
-    {
       "id": "202f",
       "name": "CupcakeLover",
       "review": "Would give up everything for these cupcakes!",
