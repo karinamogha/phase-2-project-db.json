@@ -107,6 +107,7 @@
       "id": "4516",
       "cupcakeId": "1",
       "amount": 1
+
     },
     {
       "id": "09fc",
@@ -122,22 +123,22 @@
       "stars": 5
     },
     {
-      "id": "12b7",
-      "name": "John Smith",
-      "review": "The Chocoholic cupcake changed my life!!!!",
-      "stars": 5
+      "id": "76d2",
+      "cupcakeId": "12",
+      "amount": 1
     },
+    {
+      "id": "d790",
+      "cupcakeId": "7",
+      "amount": 1
+    }
+  ],
+  "reviews": [
     {
       "id": "202f",
       "name": "CupcakeLover",
       "review": "Would give up everything for these cupcakes!",
       "stars": 5
-    },
-    {
-      "id": "6c8e",
-      "name": "FoodSnob",
-      "review": "They did not let me change my money, I wanted coins for my $1 bill.",
-      "stars": "1"
     },
     {
       "id": "624c",
@@ -152,9 +153,63 @@
       "stars": "3"
     },
     {
-      "id": "b470",
-      "name": "Karina Mogha",
-      "review": "the strawberry cupcake was outstanding ",
+      "id": "c329",
+      "name": "NutGuy",
+      "review": "I ordered the Nutty Butter cupcake and I am disappointed it does not have more crushed peanuts on top. I asked for a cup of crushed peanuts on top of my cupcake, the lady said it will not fit the top of my cupcake!",
+      "stars": "2"
+    },
+    {
+      "id": "ee70",
+      "name": "IceCreamGuy",
+      "review": "I ordered the Ice Ice Ice Cream cupcake and it melted in my mouth, not happy!",
+      "stars": "3"
+    },
+    {
+      "id": "f62c",
+      "name": "AmericanItalian",
+      "review": "I ordered the Italian-ish Tiramisu cupcake and I've never felt more SEEN",
+      "stars": 5
+    },
+    {
+      "id": "ebb5",
+      "name": "SummerGal",
+      "review": "Lemony Goody cupcake needs a whole candied lemon on top! Love it ",
+      "stars": "4"
+    },
+    {
+      "id": "0261",
+      "name": "Diabetic",
+      "review": "I am a regular here, I love these cupcakes, however, I'm currently on the hospital with some health emergency so I'm blaming this cupcakes. ",
+      "stars": "1"
+    },
+    {
+      "id": "5c02",
+      "name": "GingerGal",
+      "review": "The Rebel Red Velvet cupcake defined my soul.",
+      "stars": 5
+    },
+    {
+      "id": "10a9",
+      "name": "CheesyGuy",
+      "review": "The Cheesecake Unfactory cupcake tasted better than cheesecake factory cakes, I just lost a favorite restaurant.",
+      "stars": "1"
+    },
+    {
+      "id": "9c49",
+      "name": "SingleGirl",
+      "review": "The Vanilla Bean Fantasy cupcake did fulfilled my fantasy for the night! Who needs men? Will be buying here everyday!",
+      "stars": 5
+    },
+    {
+      "id": "23d3",
+      "name": "OreoAddict",
+      "review": "I bought a dozen of the Oreo Overload, let me tell you, my family loves me again!",
+      "stars": 5
+    },
+    {
+      "id": "aa2e",
+      "name": "DogOwner",
+      "review": "Love that all the cupcakes are dog friendly! Amazing treat for me and my dogs!",
       "stars": 5
     }
   ]
