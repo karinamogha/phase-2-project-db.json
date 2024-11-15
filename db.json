@@ -99,14 +99,28 @@
   ],
   "cart": [
     {
-      "id": "8d13",
-      "cupcakeId": "2",
-      "amount": 1
+      "id": "3451",
+      "cupcakeId": "6",
+      "amount": 4
     },
     {
       "id": "4516",
       "cupcakeId": "1",
       "amount": 1
+
+    },
+    {
+      "id": "09fc",
+      "cupcakeId": "2",
+      "amount": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "Jane Doe",
+      "review": "Amazing the best cupcakes ever",
+      "stars": 5
     },
     {
       "id": "76d2",
