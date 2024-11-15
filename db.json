@@ -99,19 +99,19 @@
   ],
   "cart": [
     {
-      "id": "8d13",
-      "cupcakeId": "2",
-      "amount": 2
-    },
-    {
       "id": "3451",
       "cupcakeId": "6",
-      "amount": 2
+      "amount": 4
     },
     {
       "id": "4516",
       "cupcakeId": "1",
-      "amount": 2
+      "amount": 1
+    },
+    {
+      "id": "09fc",
+      "cupcakeId": "2",
+      "amount": 1
     }
   ],
   "reviews": [
@@ -150,6 +150,12 @@
       "name": "Anonymous",
       "review": "Middling cupcakes, they should serve more than cupcakes",
       "stars": "3"
+    },
+    {
+      "id": "b470",
+      "name": "Karina Mogha",
+      "review": "the strawberry cupcake was outstanding ",
+      "stars": 5
     }
   ]
 }
